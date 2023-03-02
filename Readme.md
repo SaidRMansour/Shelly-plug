@@ -12,7 +12,6 @@ For each device the program tries to connect 2 times at all.
 # Installations
     pip install requests
     pip install pandas
-    pip install futures
 
 
 # Get started with program
